@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Scala</item>
+        <item>Scratch</item>
+        <item>Golang</item>
+        <item>Pascal</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>C#</item>
+    </string-array>
+</resources>
